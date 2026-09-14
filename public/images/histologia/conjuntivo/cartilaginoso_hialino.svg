@@ -1,0 +1,20 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="100%" height="100%">
+  <rect width="600" height="400" fill="#f0abfc" opacity="0.6"/> <!-- Smooth Basophilic Matrix -->
+  <!-- Chondrocytes in Lacunae -->
+  <g fill="#ffffff" stroke="#c084fc" stroke-width="4">
+    <!-- Single lacunae -->
+    <circle cx="120" cy="100" r="32"/><circle cx="120" cy="100" r="18" fill="#581c87"/>
+
+    <circle cx="450" cy="120" r="35"/><circle cx="450" cy="120" r="20" fill="#581c87"/>
+
+    <circle cx="150" cy="300" r="34"/><circle cx="150" cy="300" r="19" fill="#581c87"/>
+
+    <!-- Isogenous Group (Pair) -->
+    <ellipse cx="300" cy="220" rx="55" ry="35"/>
+    <circle cx="280" cy="220" r="18" fill="#581c87"/>
+    <circle cx="320" cy="220" r="18" fill="#581c87"/>
+  </g>
+  <!-- Territory Matrix Rim -->
+  <circle cx="300" cy="220" r="62" fill="none" stroke="#7e22ce" stroke-width="3" opacity="0.7"/>
+  <text x="300" y="360" fill="#581c87" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">Grupo IsÃ³geno de CondrÃ³citos em Lacunas</text>
+</svg>
