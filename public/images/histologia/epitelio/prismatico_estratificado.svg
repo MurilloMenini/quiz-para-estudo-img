@@ -1,0 +1,20 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="100%" height="100%">
+  <rect width="600" height="400" fill="#fdf2f4"/>
+  <rect x="0" y="300" width="600" height="100" fill="#fecdd3" opacity="0.6"/>
+  <line x1="0" y1="300" x2="600" y2="300" stroke="#be123c" stroke-width="4"/>
+  <!-- Basal polyhedral cells -->
+  <g fill="#f472b6" stroke="#e11d48" stroke-width="2">
+    <rect x="50" y="230" width="100" height="70" rx="8"/><circle cx="100" cy="265" r="16" fill="#5b21b6"/>
+    <rect x="160" y="230" width="100" height="70" rx="8"/><circle cx="210" cy="265" r="16" fill="#5b21b6"/>
+    <rect x="270" y="230" width="100" height="70" rx="8"/><circle cx="320" cy="265" r="16" fill="#5b21b6"/>
+    <rect x="380" y="230" width="100" height="70" rx="8"/><circle cx="430" cy="265" r="16" fill="#5b21b6"/>
+  </g>
+  <!-- Apical columnar cells -->
+  <g fill="#fb7185" stroke="#be123c" stroke-width="3">
+    <rect x="50" y="90" width="100" height="140" rx="10"/><ellipse cx="100" cy="180" rx="18" ry="25" fill="#4c1d95"/>
+    <rect x="160" y="90" width="100" height="140" rx="10"/><ellipse cx="210" cy="180" rx="18" ry="25" fill="#4c1d95"/>
+    <rect x="270" y="90" width="100" height="140" rx="10"/><ellipse cx="320" cy="180" rx="18" ry="25" fill="#4c1d95"/>
+    <rect x="380" y="90" width="100" height="140" rx="10"/><ellipse cx="430" cy="180" rx="18" ry="25" fill="#4c1d95"/>
+  </g>
+  <text x="300" y="55" fill="#9f1239" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">CÃ©lulas PrismÃ¡ticas no Topo / CÃ©lulas PoliÃ©dricas na Base</text>
+</svg>

@@ -1,0 +1,40 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="100%" height="100%">
+  <rect width="600" height="400" fill="#fdf2f4"/>
+  <rect x="0" y="310" width="600" height="90" fill="#fecdd3" opacity="0.6"/>
+  <line x1="0" y1="310" x2="600" y2="310" stroke="#be123c" stroke-width="4"/>
+  <!-- Cells on basement membrane -->
+  <g stroke="#e11d48" stroke-width="3">
+    <!-- Tall cell -->
+    <path d="M 50,310 L 50,110 L 130,110 L 130,310 Z" fill="#f472b6"/>
+    <ellipse cx="90" cy="170" rx="18" ry="28" fill="#5b21b6"/>
+
+    <!-- Short basal cell -->
+    <path d="M 130,310 L 130,220 L 200,220 L 200,310 Z" fill="#f472b6"/>
+    <circle cx="165" cy="265" r="20" fill="#5b21b6"/>
+
+    <!-- Goblet cell -->
+    <path d="M 200,310 L 200,110 L 290,110 L 290,310 Z" fill="#ffffff"/>
+    <ellipse cx="245" cy="285" rx="16" ry="12" fill="#5b21b6"/>
+    <circle cx="245" cy="150" r="30" fill="#fbcfe8" stroke="#ec4899" stroke-width="2"/>
+
+    <!-- Tall cell 2 -->
+    <path d="M 290,310 L 290,110 L 380,110 L 380,310 Z" fill="#f472b6"/>
+    <ellipse cx="335" cy="210" rx="18" ry="28" fill="#5b21b6"/>
+
+    <!-- Short cell 2 -->
+    <path d="M 380,310 L 380,210 L 450,210 L 450,310 Z" fill="#f472b6"/>
+    <circle cx="415" cy="260" r="18" fill="#5b21b6"/>
+
+    <!-- Tall cell 3 -->
+    <path d="M 450,310 L 450,110 L 530,110 L 530,310 Z" fill="#f472b6"/>
+    <ellipse cx="490" cy="160" rx="18" ry="28" fill="#5b21b6"/>
+  </g>
+  <!-- Cilia on apical surface -->
+  <g stroke="#9f1239" stroke-width="4" stroke-linecap="round">
+    <line x1="60" y1="110" x2="55" y2="85"/><line x1="80" y1="110" x2="75" y2="85"/><line x1="100" y1="110" x2="95" y2="85"/>
+    <line x1="120" y1="110" x2="115" y2="85"/><line x1="300" y1="110" x2="295" y2="85"/><line x1="320" y1="110" x2="315" y2="85"/>
+    <line x1="340" y1="110" x2="335" y2="85"/><line x1="360" y1="110" x2="355" y2="85"/><line x1="460" y1="110" x2="455" y2="85"/>
+    <line x1="480" y1="110" x2="475" y2="85"/><line x1="500" y1="110" x2="495" y2="85"/><line x1="520" y1="110" x2="515" y2="85"/>
+  </g>
+  <text x="300" y="60" fill="#9f1239" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">CÃ­lios Apicais Movelmente Dispostos</text>
+</svg>

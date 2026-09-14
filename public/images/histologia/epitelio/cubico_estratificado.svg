@@ -1,0 +1,22 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="100%" height="100%">
+  <rect width="600" height="400" fill="#fdf2f4"/>
+  <!-- Duct Wall -->
+  <!-- Outer Layer -->
+  <g fill="#f472b6" stroke="#e11d48" stroke-width="3">
+    <rect x="100" y="80" width="400" height="70" rx="10"/>
+    <rect x="100" y="250" width="400" height="70" rx="10"/>
+  </g>
+  <!-- Inner Layer -->
+  <g fill="#fb7185" stroke="#be123c" stroke-width="3">
+    <rect x="100" y="145" width="400" height="55" rx="8"/>
+    <rect x="100" y="200" width="400" height="55" rx="8"/>
+  </g>
+  <!-- Nuclei Outer and Inner -->
+  <g fill="#4c1d95">
+    <circle cx="160" cy="115" r="18"/><circle cx="300" cy="115" r="18"/><circle cx="440" cy="115" r="18"/>
+    <circle cx="160" cy="172" r="15"/><circle cx="300" cy="172" r="15"/><circle cx="440" cy="172" r="15"/>
+    <circle cx="160" cy="227" r="15"/><circle cx="300" cy="227" r="15"/><circle cx="440" cy="227" r="15"/>
+    <circle cx="160" cy="285" r="18"/><circle cx="300" cy="285" r="18"/><circle cx="440" cy="285" r="18"/>
+  </g>
+  <text x="300" y="45" fill="#be123c" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">Ducto com 2 Camadas de CÃ©lulas CÃºbicas</text>
+</svg>
