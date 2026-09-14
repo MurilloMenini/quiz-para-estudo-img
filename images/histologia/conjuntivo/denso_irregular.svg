@@ -1,0 +1,18 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="100%" height="100%">
+  <rect width="600" height="400" fill="#fecdd3"/>
+  <!-- Coarse bundles in random directions -->
+  <g stroke="#e11d48" fill="none" opacity="0.85" stroke-linecap="round">
+    <path d="M 20,40 Q 180,180 80,320" stroke-width="42"/>
+    <path d="M 120,80 Q 300,40 450,160" stroke-width="38"/>
+    <path d="M 250,220 Q 420,380 580,280" stroke-width="45"/>
+    <path d="M 400,40 Q 550,120 520,350" stroke-width="36"/>
+    <path d="M 50,350 Q 250,300 380,380" stroke-width="40"/>
+  </g>
+  <!-- Scattered fibroblast nuclei -->
+  <g fill="#4c1d95">
+    <ellipse cx="140" cy="180" rx="25" ry="8" transform="rotate(45 140 180)"/>
+    <ellipse cx="320" cy="110" rx="28" ry="7" transform="rotate(-20 320 110)"/>
+    <ellipse cx="420" cy="270" rx="26" ry="8" transform="rotate(60 420 270)"/>
+  </g>
+  <text x="300" y="385" fill="#881337" font-family="Arial, sans-serif" font-size="15" font-weight="bold" text-anchor="middle">Feixes EntranÃ§ados em VÃ¡rias DireÃ§Ãµes (Derme)</text>
+</svg>
