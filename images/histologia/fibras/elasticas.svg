@@ -1,0 +1,13 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="100%" height="100%">
+  <rect width="600" height="400" fill="#fef3c7"/>
+  <!-- Dark Orcein Elastic Threads -->
+  <g stroke="#78350f" fill="none" stroke-linecap="round">
+    <path d="M -10,80 Q 100,40 200,100 T 400,60 T 610,90" stroke-width="6"/>
+    <path d="M 150,80 Q 220,140 320,110 T 500,160" stroke-width="4"/>
+    <path d="M -10,180 Q 120,240 280,170 T 480,220 T 610,190" stroke-width="7"/>
+    <path d="M 220,190 Q 290,260 410,240" stroke-width="4"/>
+    <path d="M -10,290 Q 150,330 310,280 T 610,310" stroke-width="6"/>
+    <path d="M 80,310 Q 180,260 250,330" stroke-width="5"/>
+  </g>
+  <text x="300" y="370" fill="#92400e" font-family="Arial, sans-serif" font-size="15" font-weight="bold" text-anchor="middle">ColoraÃ§Ã£o: OrceÃ­na (Fibras ElÃ¡sticas)</text>
+</svg>
