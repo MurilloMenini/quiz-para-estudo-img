@@ -1,0 +1,25 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="100%" height="100%">
+  <rect width="600" height="400" fill="#fdf2f4"/>
+  <!-- Connective tissue base -->
+  <rect x="0" y="240" width="600" height="160" fill="#fecdd3" opacity="0.6"/>
+  <!-- Basement Membrane -->
+  <line x1="0" y1="240" x2="600" y2="240" stroke="#be123c" stroke-width="4"/>
+  <!-- Single layer of flattened squamous cells -->
+  <path d="M 0,240 L 0,215 Q 60,200 120,215 L 120,240 Z" fill="#f472b6" stroke="#e11d48" stroke-width="2"/>
+  <ellipse cx="60" cy="222" rx="25" ry="7" fill="#5b21b6"/>
+
+  <path d="M 120,240 L 120,215 Q 210,195 300,215 L 300,240 Z" fill="#f472b6" stroke="#e11d48" stroke-width="2"/>
+  <ellipse cx="210" cy="218" rx="35" ry="9" fill="#5b21b6"/>
+
+  <path d="M 300,240 L 300,215 Q 390,198 480,215 L 480,240 Z" fill="#f472b6" stroke="#e11d48" stroke-width="2"/>
+  <ellipse cx="390" cy="220" rx="30" ry="8" fill="#5b21b6"/>
+
+  <path d="M 480,240 L 480,215 Q 540,200 600,215 L 600,240 Z" fill="#f472b6" stroke="#e11d48" stroke-width="2"/>
+  <ellipse cx="540" cy="222" rx="25" ry="7" fill="#5b21b6"/>
+
+  <text x="300" y="100" fill="#9f1239" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle">LÃšMEN (CAVIDADE / VASO)</text>
+  <!-- Pointer Arrow -->
+  <g transform="translate(210, 125)">
+    <path d="M 0,0 L 0,60 M -10,45 L 0,60 L 10,45" stroke="#be123c" stroke-width="5" fill="none"/>
+  </g>
+</svg>

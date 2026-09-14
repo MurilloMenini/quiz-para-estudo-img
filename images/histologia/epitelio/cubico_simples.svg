@@ -1,0 +1,25 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="100%" height="100%">
+  <rect width="600" height="400" fill="#fdf2f4"/>
+  <!-- Connective tissue below -->
+  <rect x="0" y="270" width="600" height="130" fill="#fecdd3" opacity="0.6"/>
+  <!-- Basement Membrane -->
+  <line x1="0" y1="270" x2="600" y2="270" stroke="#be123c" stroke-width="4"/>
+  <!-- Cubic Cells -->
+  <g stroke="#e11d48" stroke-width="3" fill="#f472b6">
+    <rect x="20" y="170" width="100" height="100" rx="8"/>
+    <circle cx="70" cy="220" r="22" fill="#5b21b6"/>
+
+    <rect x="130" y="170" width="100" height="100" rx="8"/>
+    <circle cx="180" cy="220" r="22" fill="#5b21b6"/>
+
+    <rect x="240" y="170" width="100" height="100" rx="8"/>
+    <circle cx="290" cy="220" r="22" fill="#5b21b6"/>
+
+    <rect x="350" y="170" width="100" height="100" rx="8"/>
+    <circle cx="400" cy="220" r="22" fill="#5b21b6"/>
+
+    <rect x="460" y="170" width="100" height="100" rx="8"/>
+    <circle cx="510" cy="220" r="22" fill="#5b21b6"/>
+  </g>
+  <text x="300" y="80" fill="#9f1239" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle">LÃšMEN DO TÃšBULO</text>
+</svg>

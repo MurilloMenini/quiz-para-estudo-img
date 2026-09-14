@@ -1,0 +1,27 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="100%" height="100%">
+  <rect width="600" height="400" fill="#fdf2f4"/>
+  <rect x="0" y="300" width="600" height="100" fill="#fecdd3" opacity="0.6"/>
+  <line x1="0" y1="300" x2="600" y2="300" stroke="#be123c" stroke-width="4"/>
+
+  <!-- Columnar Cells -->
+  <g stroke="#e11d48" stroke-width="3" fill="#f472b6">
+    <rect x="50" y="120" width="90" height="180" rx="10"/>
+    <ellipse cx="95" cy="245" rx="20" ry="32" fill="#5b21b6"/>
+
+    <rect x="150" y="120" width="90" height="180" rx="10"/>
+    <ellipse cx="195" cy="245" rx="20" ry="32" fill="#5b21b6"/>
+
+    <rect x="250" y="120" width="90" height="180" rx="10"/>
+    <ellipse cx="295" cy="245" rx="20" ry="32" fill="#5b21b6"/>
+
+    <rect x="350" y="120" width="90" height="180" rx="10"/>
+    <ellipse cx="395" cy="245" rx="20" ry="32" fill="#5b21b6"/>
+
+    <rect x="450" y="120" width="90" height="180" rx="10"/>
+    <ellipse cx="495" cy="245" rx="20" ry="32" fill="#5b21b6"/>
+  </g>
+
+  <!-- Microvilli Brush Border -->
+  <rect x="45" y="108" width="500" height="12" fill="#be123c" rx="4"/>
+  <text x="300" y="80" fill="#9f1239" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">Borda em Escova (Microvilosidades Apicais)</text>
+</svg>
