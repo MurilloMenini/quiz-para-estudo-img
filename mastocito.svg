@@ -1,0 +1,16 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="100%" height="100%">
+  <rect width="600" height="400" fill="#fae8ff"/>
+  <!-- Globular cell -->
+  <circle cx="300" cy="210" r="120" fill="#f0abfc" opacity="0.7" stroke="#c084fc" stroke-width="4"/>
+  <!-- Central round nucleus -->
+  <circle cx="300" cy="210" r="40" fill="#581c87" opacity="0.85"/>
+  <!-- Basophilic/metachromatic granules -->
+  <g fill="#4c1d95">
+    <circle cx="230" cy="150" r="9"/><circle cx="260" cy="130" r="10"/><circle cx="310" cy="135" r="8"/>
+    <circle cx="350" cy="145" r="11"/><circle cx="380" cy="180" r="9"/><circle cx="390" cy="220" r="10"/>
+    <circle cx="370" cy="260" r="8"/><circle cx="340" cy="290" r="11"/><circle cx="290" cy="300" r="9"/>
+    <circle cx="240" cy="280" r="10"/><circle cx="210" cy="240" r="11"/><circle cx="210" cy="190" r="8"/>
+    <circle cx="250" cy="180" r="7"/><circle cx="340" cy="180" r="8"/><circle cx="260" cy="250" r="9"/>
+    <circle cx="330" cy="250" r="10"/><circle cx="220" cy="160" r="8"/><circle cx="380" cy="250" r="9"/>
+  </g>
+</svg>

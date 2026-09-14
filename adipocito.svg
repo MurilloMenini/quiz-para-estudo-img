@@ -1,0 +1,12 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="100%" height="100%">
+  <rect width="600" height="400" fill="#fff1f2"/>
+  <!-- Adipocyte Mesh -->
+  <!-- Adipocyte 1 Main -->
+  <polygon points="200,100 380,80 480,220 380,340 180,330 100,200" fill="#ffffff" stroke="#fb7185" stroke-width="4"/>
+  <ellipse cx="440" cy="140" rx="35" ry="12" fill="#8b5cf6" transform="rotate(30 440 140)"/>
+  <!-- Adipocyte 2 Neighbor -->
+  <polygon points="380,80 550,50 580,180 480,220" fill="#ffffff" stroke="#fda4af" stroke-width="3"/>
+  <!-- Adipocyte 3 Neighbor -->
+  <polygon points="100,200 180,330 50,380 20,260" fill="#ffffff" stroke="#fda4af" stroke-width="3"/>
+  <text x="280" y="220" fill="#f43f5e" font-family="Arial, sans-serif" font-size="20" font-weight="bold" opacity="0.4" text-anchor="middle">Gota LipÃ­dica</text>
+</svg>
