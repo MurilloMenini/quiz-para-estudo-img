@@ -1,0 +1,21 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="100%" height="100%">
+  <rect width="600" height="400" fill="#fcf4f6"/>
+  <!-- Irregular Macrophage -->
+  <path d="M 180,140 C 130,170 120,240 160,300 C 220,360 340,350 420,300 C 480,260 460,180 400,140 C 330,100 230,110 180,140 Z" fill="#f472b6" opacity="0.75" stroke="#e11d48" stroke-width="4"/>
+  <!-- Pseudopodia -->
+  <path d="M 140,200 Q 90,190 110,230 Q 130,240 150,230" fill="#f472b6" stroke="#e11d48" stroke-width="3"/>
+  <path d="M 430,220 Q 490,210 470,250 Q 440,260 430,240" fill="#f472b6" stroke="#e11d48" stroke-width="3"/>
+  <!-- Kidney shaped nucleus -->
+  <path d="M 250,200 A 35,35 0 0,1 320,250 A 20,20 0 0,0 280,240 A 20,20 0 0,1 250,200 Z" fill="#5b21b6"/>
+  <!-- Phagocytosed vacuoles -->
+  <circle cx="210" cy="260" r="14" fill="#9f1239" opacity="0.8"/>
+  <circle cx="360" cy="200" r="18" fill="#881337" opacity="0.8"/>
+  <circle cx="340" cy="260" r="10" fill="#4c1d95" opacity="0.8"/>
+  <circle cx="230" cy="180" r="12" fill="#be123c" opacity="0.8"/>
+  <!-- Pointer Arrow -->
+  <g transform="translate(290, 50)">
+    <path d="M 0,0 L 0,65 M -12,50 L 0,65 L 12,50" stroke="#be123c" stroke-width="6" fill="none"/>
+    <rect x="-60" y="-35" width="120" height="30" rx="8" fill="#be123c"/>
+    <text x="0" y="-15" fill="#ffffff" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">MacrÃ³fago</text>
+  </g>
+</svg>
